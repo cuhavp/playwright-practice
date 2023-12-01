@@ -1,0 +1,16 @@
+{
+    "name": "playwright-mvc-todo",
+    "version": "1.0.0",
+    "description": "practice with playwright",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx playwright test"
+    },
+    "keywords": [],
+    "author": "Ha Do",
+    "license": "ISC",
+    "devDependencies": {
+        "@playwright/test": "^1.40.1",
+        "@types/node": "^20.10.1"
+    }
+}
